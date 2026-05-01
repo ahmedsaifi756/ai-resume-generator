@@ -1,0 +1,6 @@
+SSAITI/
+.env
+__pycache__/
+*.pyc
+ChatbotWithLangChain.py
+first_chatbot_project.py
